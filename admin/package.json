@@ -22,7 +22,7 @@
     "@angular/router": "~10.0.0",
     "@cycjimmy/jsmpeg-player": "^5.0.1",
     "@fortawesome/fontawesome-free": "^5.13.1",
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^4.6.2",
     "ngx-spinner": "^10.0.1",
     "primeflex": "^2.0.0",
     "primeicons": "^4.0.0",
